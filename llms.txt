@@ -25,6 +25,9 @@
 - [Painters Near Me for Homes in Henry County](https://local-business-guides.github.io/sts-painting-henry-county/painters-near-me/): Painters near me for careful home updates in McDonough and Henry County. Call STS Painting to discuss your project and request an estimate today.
 - [Interior Painters Near Me for Henry County Homes](https://local-business-guides.github.io/sts-painting-henry-county/interior-painters-near-me/): Interior painters near me for thoughtful room updates in McDonough and Henry County. Call STS Painting to discuss your rooms and request an estimate.
 
+## Newsroom
+- [STS Painting Shares McDonough Painters Guide in Several Formats](https://local-business-guides.github.io/sts-painting-henry-county/news/2026-11-05-sts-painting-shares-mcdonough-painters-guide-in/): STS Painting has released a guide to McDonough painters, with related video, podcast and audio versions for local homeowners. (2026-11-05)
+
 ## Pages
 - [McDonough Painters in Henry County, Georgia](https://local-business-guides.github.io/sts-painting-henry-county/): Get thoughtful residential painting and surface care from a team serving homeowners throughout Henry County. Call +1770-268-0708.
 - [About STS Painting and Contact](https://local-business-guides.github.io/sts-painting-henry-county/about/): About STS Painting, Henry County.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/sts-painting-henry-county/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/sts-painting-henry-county/news/rss.xml)
 - [Main resource site](https://sts-painting-henry-county.localwebsites.chatgpt.site)
